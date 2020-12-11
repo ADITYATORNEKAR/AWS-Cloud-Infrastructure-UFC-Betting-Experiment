@@ -8,6 +8,14 @@ AWS Infrastructure Used:
 4) Amazon S3
 5) AWS CloudWatch
 
+Project Credits:
+1) Aditya Tornekar
+2) Sourabh Ghosh
+3) Shreyas Sadagopan
+4) Rishabh Agarwal
+
 # Demo
 
-![]()
+![](https://github.com/ADITYATORNEKAR/AWS-Cloud-Infrastructure-UFC-Betting-Experiment/blob/main/Demo.png)
+
+
